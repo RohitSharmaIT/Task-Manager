@@ -2,6 +2,9 @@
 
 A simple **Task Management System** built using the **MERN stack** as part of an assignment submission.
 
+📄 **YouTube explanation Link:**  
+[Check Here]([https://github.com/RohitSharmaIT/Task-Manager.git](https://youtu.be/6WmX11gdChY?si=OnDVfnop4cmZ5sLc))
+
 📄 **GitHub Repository Link:**  
 [Check Here](https://github.com/RohitSharmaIT/Task-Manager.git)
 
